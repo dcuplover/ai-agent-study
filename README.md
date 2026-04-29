@@ -28,6 +28,8 @@
 | 文档 | 说明 |
 |------|------|
 | [需求分析 AGENTS.md](需求分析AGNETS.md.md) | 需求分析与文档生成 Agent 规范（AGENTS.md 实践样例） |
+| [AgentsForHermes / AGENTS.md](AgentsForHermes/AGENTS.md) | 基于 Harness 思想的需求分析 Agent 规范（v1.3，含模板系统、双向追溯链、子 Agent 审核机制） |
+| [AgentsForHermes / templates](AgentsForHermes/templates) | 配套模板：需求澄清、需求文档、成功标准、功能性需求、非功能性需求 |
 
 ## 🗂️ 主题方向
 
